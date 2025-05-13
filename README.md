@@ -2,7 +2,7 @@
 
 This project provides a basic Shell Script to calculate simple interest.
 
-## Features
+# Features
 
 - Shell script: `simple-interest.sh`
 - Calculates simple interest using:
@@ -10,13 +10,13 @@ This project provides a basic Shell Script to calculate simple interest.
   SI = (P × R × T) / 100
   ```
 
-## Usage
+# Usage
 
 ```bash
 chmod +x simple-interest.sh
 ./simple-interest.sh
 ```
 
-## License
+# License
 
 Apache 2.0
